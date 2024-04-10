@@ -18,7 +18,7 @@ _rmd
 
 #### Beginning of year prep
 1. Create a new branch [yyyy]_archive, where yyyy represents the previous year
-2. Pull that branch to the archive site
+2. Pull that branch to the archive site fork (or ask Julin to)
 3. Move all lab posts from `_posts` to `_drafts`
 4. Update the welcome posts if needed
 5. Update dates in `course_scheudle.md`
@@ -28,4 +28,8 @@ _rmd
 ### Canvas
 
 ## For each assignment
+
+## To-dos
+
+Update reading assignments to use second edition of R for data Science
 
