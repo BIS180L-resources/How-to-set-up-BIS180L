@@ -31,6 +31,24 @@ _rmd
 
 If you update a question, remember to update the template
 
+## Grading
+
+### Installations
+
+1. You need a [git CLI](https://github.com/cli/cli#installation) installed on your computer.
+2. Install the [classrooom extension](https://docs.github.com/en/education/manage-coursework-with-github-classroom/teach-with-github-classroom/using-github-classroom-with-github-cli#using-the-github-classroom-extension-with-github-cli)
+```
+gh auth login
+gh extension install github/gh-classroom
+```
+
+### To grade an assignment
+1. For each assignment go to [Github Classroom](https://classroom.github.com/classrooms)
+2. Click on the Assignment you want to grade
+3. Click on Download
+4. 
+
+
 ## To-dos
 
 Update reading assignments to use second edition of R for data Science
