@@ -29,6 +29,8 @@ _rmd
 
 ## For each assignment
 
+If you update a question, remember to update the template
+
 ## To-dos
 
 Update reading assignments to use second edition of R for data Science
