@@ -31,6 +31,12 @@ _rmd
 
 If you update a question, remember to update the template
 
+## knitting
+
+jekyll knit...
+
+move files to input and output...
+
 ## Grading
 
 ### Installations
