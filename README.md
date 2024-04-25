@@ -6,6 +6,8 @@
 
 ### Update Jetstream image
 
+### Create a Manila share and get it mounted on the image
+
 ### Set up a GitHub Classroom
 
 ### Website
