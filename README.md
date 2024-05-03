@@ -56,6 +56,9 @@ gh extension install github/gh-classroom
 3. Click on Download
 4. 
 
+### instances
+
+can ressize boot drive in Horizon interface
 
 ## To-dos
 
