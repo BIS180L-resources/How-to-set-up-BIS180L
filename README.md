@@ -10,7 +10,7 @@ Julin will apply for renewal on ~ Feb 21, 2025
 
 ### Update Jetstream image
 
-Optional.  Can use last years if desired.  Instrucions are [here](https://github.com/BIS180L-resources/BIS180L-VM_Image_Setup)
+Optional.  Can use last years if desired.  Instructions are [here](https://github.com/BIS180L-resources/BIS180L-VM_Image_Setup)
 
 ### Create a Manila share and get it mounted on the image
 
