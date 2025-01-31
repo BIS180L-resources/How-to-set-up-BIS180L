@@ -36,7 +36,7 @@ I recommend having Jekyll running on your local machine so that you can preview 
 
 Important info on the website is in the [website repo README](https://github.com/jnmaloof/BIS180L_web/blob/gh-pages/README.md)
 
-#### Beginning of year prep
+#### Beginning of year website prep
 1. Create a new branch [yyyy]_archive, where yyyy represents the previous year _Julin last completed 1/31/2025_
 2. Pull that branch to the archive site fork (or ask Julin to) _Julin last completed 1/31/2025_
 3. Move all lab posts from `_posts` to `_drafts` 
@@ -52,6 +52,12 @@ I am only using Canvas for the gradebook and to make announcements
 ### Slack
 
 I set up two Slack channels each your for the course under the UCD Slack umbrella.  One for announcements and one for student questions.
+
+## ~ Several days to one week before classes start
+
+Create instances for each student.
+
+JM needs to add info here.
 
 ## For each assignment
 
