@@ -4,7 +4,7 @@
 
 ### Apply for or renew JetStream Allocation
 
-Can only apply for renewal 30 days before experiation
+Can only apply for renewal 30 days before expiration
 
 Julin will apply for renewal on ~ Feb 21, 2025
 
