@@ -12,6 +12,9 @@ Julin will apply for renewal on ~ Feb 21, 2025
 
 Optional.  Can use last years if desired.  Instructions are [here](https://github.com/BIS180L-resources/BIS180L-VM_Image_Setup)
 
+TODO: make sure that manila shares are mounted on default image
+Create instructor image that has write access to Manila shares.
+
 ### Create a Manila share and get it mounted on the image
 
 Manila shares are used to share data with all Jetstream instances in the class.  
