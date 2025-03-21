@@ -57,7 +57,30 @@ I set up two Slack channels each your for the course under the UCD Slack umbrell
 
 Create instances for each student.
 
-JM needs to add info here.
+Go to the [Jetstream exosphere web page](https://jetstream2.exosphere.app/)
+
+Click on the `UC Davis BIS180L Genome Biology` allocation
+
+Click on `Create` and select `Instance`
+
+Click on `By Image`
+
+Enter `180L` in the search bar
+
+Choose `BIS180L-build-2025-image`
+
+Choose `Create Image`
+
+Fill out the form:
+1. If you are creating multiple instances, click `Random Name` (we will rename them later).
+2. Select "m3.quad"
+3. Choose `Custom disk size` and select 1000 GB
+4. How Many instances: I'd do 10-15 at a time and repeat until you have as many as you need (once each set is running)
+5. Enable web desktop: **YES**
+
+After instances are running, click on each instance, rename it with student first name and last initial.  Copy the IP address (or ssh logon info) and passphrase and send to the student through the Canvas messaging portal.
+
+Note: it may be more efficient to do the renaming via the [Horizon interface](https://docs.jetstream-cloud.org/ui/horizon/intro/) or even via [the command line](https://docs.jetstream-cloud.org/ui/cli/overview/)
 
 ## For each assignment
 
