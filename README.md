@@ -6,8 +6,6 @@
 
 Can only apply for renewal 30 days before expiration
 
-Julin will apply for renewal on ~ Feb 21, 2025
-
 ### Update Jetstream image
 
 Optional.  Can use last years if desired.  Instructions are [here](https://github.com/BIS180L-resources/BIS180L-VM_Image_Setup)
@@ -22,6 +20,8 @@ Manila shares are used to share data with all Jetstream instances in the class.
 Since I plan to renew the Jetstream allocation we should just be able to use the Manila shares from last year, rather than setting up new ones.
 
 ### Set up a [GitHub Classroom](https://classroom.github.com/classrooms)
+
+Make sure your GitHub Education creditional are up to date
 
 GitHub Classroom is used to manage student assignments and repos
 
@@ -70,7 +70,7 @@ Click on `By Image`
 
 Enter `180L` in the search bar
 
-Choose `BIS180L-build-2025-image`
+Choose the latest image, e.g. `BIS180L-build-2026-image`
 
 Choose `Create Image`
 
