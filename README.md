@@ -19,6 +19,10 @@ Manila shares are used to share data with all Jetstream instances in the class.
 
 Since I plan to renew the Jetstream allocation we should just be able to use the Manila shares from last year, rather than setting up new ones.
 
+If you do need to set up a new one, instructions are [here](https://docs.jetstream-cloud.org/ui/horizon/manila/)
+
+Mount it on the image.  See [image set up markdown](https://github.com/BIS180L-resources/BIS180L-VM_Image_Setup) for specific instructions.  General instructions are [here](https://docs.jetstream-cloud.org/general/manilaVM/)
+
 ### Set up a [GitHub Classroom](https://classroom.github.com/classrooms)
 
 Make sure your GitHub Education creditional are up to date
